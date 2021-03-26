@@ -10,13 +10,12 @@ git教程：https://www.liaoxuefeng.com/wiki/896043488029600
 git最全命令：https://ceshiren.com/t/topic/7405
 
 ##pytest
-pytest使用文档：https://docs.pytest.org/en/latest/
 
+pytest使用文档：https://docs.pytest.org/en/latest/
 数据驱动--yaml:
 yaml使用文档说明：https://yaml.org/spec/1.2/spec.html
 yaml使用：
 yaml.safe_load(open('./xxx.yml'))
-
 pytest命名规范：
 测试用例命名规范:
 文件要在test_开头，或者_test结尾
@@ -32,10 +31,15 @@ pytest - - junitxml=./result.xml：生成执行结果文件
 pytest --setup-show：回溯fixture的执行过程
 
 ##元素定位
-img.png
 
+
+img.png
 ##python
+
+
 命名规范：https://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/python_style_rules/#id16
 ##selenium
+
+
 selenium使用文档：https://selenium-python.readthedocs.io
 测试人论坛 参考链接 pytest: https://docs.pytest.org/en/stable/getting-started.html
