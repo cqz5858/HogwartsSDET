@@ -28,7 +28,7 @@ pytest --setup-show：回溯fixture的执行过程
 ##元素定位  
 img.png  
 ##python  
-命名规范：https://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/python_style_rules/#id16
+命名规范：https://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/python_style_rules/#id16  
 ##selenium  
-selenium使用文档：https://selenium-python.readthedocs.io
-测试人论坛 参考链接 pytest: https://docs.pytest.org/en/stable/getting-started.html
+selenium使用文档：https://selenium-python.readthedocs.io  
+测试人论坛 参考链接 pytest: https://docs.pytest.org/en/stable/getting-started.html  
